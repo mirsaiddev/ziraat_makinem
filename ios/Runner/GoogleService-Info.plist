@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>181276599927-rikeqnoh4vvu0pg2hblcb3q9a7p4nfu6.apps.googleusercontent.com</string>
+	<string>181276599927-pum4bq8eqa409vh2e8vvae1l266p3b3j.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.181276599927-rikeqnoh4vvu0pg2hblcb3q9a7p4nfu6</string>
+	<string>com.googleusercontent.apps.181276599927-pum4bq8eqa409vh2e8vvae1l266p3b3j</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAGrT_xhasGuYyhTs2eBzt8JtnMxxxTX7k</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ziraat.makinem</string>
+	<string>com.ziraatmakinem.app</string>
 	<key>PROJECT_ID</key>
 	<string>ziraat-makinem</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:181276599927:ios:f4b30de17391431ec8c872</string>
+	<string>1:181276599927:ios:a1cf37a7f4e98daec8c872</string>
 </dict>
 </plist>

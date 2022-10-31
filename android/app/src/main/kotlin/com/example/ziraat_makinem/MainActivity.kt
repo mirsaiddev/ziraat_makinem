@@ -1,4 +1,4 @@
-package com.ziraat.makinem
+package com.ziraatmakinem.app
 
 import io.flutter.embedding.android.FlutterActivity
 

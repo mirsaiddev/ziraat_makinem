@@ -40,6 +40,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181276599927:android:9c4a5eeddd6aa5a6c8c872",
+        "android_client_info": {
+          "package_name": "com.ziraatmakinem.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181276599927-h90qhoi5g24jle2cd5s6st3nguhkva4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqDHMxfbqU4JUEqcoj_WPx2dc9zJSQ6v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181276599927-h90qhoi5g24jle2cd5s6st3nguhkva4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181276599927-rikeqnoh4vvu0pg2hblcb3q9a7p4nfu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ziraat.makinem"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
