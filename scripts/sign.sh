@@ -1,1 +1,1 @@
-keytool -genkey -v -keystore ~/halisahabak.jks -keyalg RSA -keysize 2048 -validity 10000 -alias halisahabak
+keytool -genkey -v -keystore /Users/mirsaiddev/development/flutter_projects/mata/ziraat_makinem/ziraat_makinem/keystore/ziraat.jks -keyalg RSA -keysize 2048 -validity 10000 -alias ziraat

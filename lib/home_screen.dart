@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       body: SafeArea(
         child: WebView(
-          initialUrl: 'https://www.ziraatmakinem.com',
+          initialUrl: 'https://www.ziraatmakinem.net',
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),

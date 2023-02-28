@@ -34,6 +34,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       navigatorKey: GlobalVariable.navState,
       title: 'Ziraat Makinem',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(),
       home: const HomeScreen(),
     );
